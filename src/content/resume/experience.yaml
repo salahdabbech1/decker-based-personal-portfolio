@@ -1,20 +1,13 @@
-- title: Software Engineer |  Android, Swiftech
-  timeline: 06/2024 - 06/2026
+- id: 1
+  title: Software Engineer |  Android, Swiftech
+  timeline: 06/2024-06/2026
   description: Architected and maintained Android projects using MVVM, kotlin,
     java, xml views,jetpack compose, REST api integration using retrofit and
     okHttp with Reactive programming ,via RxJava and Live Data or Kotlin
     Couroutines and Flows, and object oridented principals following clean and
     SOLID design to deliver stable releases via Git branching strategy on github
     in a cross functional team.
-- title: Full stack software engineer | Intern , Orange/perro Solutions
-  timeline: 02/2023 - 11/2023
-  description: >-
-    Designed a Node.js/Express REST API following the repository pattern,
-    load-tested with Artillery, security-audited with OWASP ZAP, and monitored
-    in production with Sentry. Independently built and deployed a cross-platform
-    Flutter app (iOS and Android) using MVVM/Clean
-
-    Architecture, BLoC, Freezed, Dio, and AutoRoute, monitored with Firebase
-    Crashlytics and released with Fastlane CI/CD. Later deployed and maintained
-    the solution for hundreds of users, building what users need and fixing
-    production bugs
+- id: 2
+  title: Full stack software engineer | Intern , Orange/perro Solutions
+  timeline: 02/2023-11/2023
+  description: Built and deployed a Flutter app for iOS/Android using Clean Architecture, MVVM, BLoC, Freezed, Dio, AutoRoute, Fastlane CI/CD, and Firebase Crashlytics. Developed a Node.js/Express REST API using the Repository pattern, tested with Artillery, secured with OWASP ZAP, and monitored with Sentry. Maintained production systems serving hundreds of users.
