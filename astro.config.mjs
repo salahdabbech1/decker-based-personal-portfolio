@@ -20,12 +20,16 @@ export default defineConfig({
       fallbacks: ["monospace"],
       weights: [400, 500, 600, 700, 800],
       styles: ["normal", "italic"],
+    },
+    {
+      site: 'https://salahdabbech1.github.io',
+      base: '/salahdabbech',
     }
   ],
 
   vite: {
     plugins: [tailwindcss()]
   },
-  site: "https://salahdabbech1.github.io/salahdabbech/",
+
   integrations: [sitemap()]
 });
