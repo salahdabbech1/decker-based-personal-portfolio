@@ -8,17 +8,17 @@
     --font-mono: var(--font-mono);
 
     /* COLORS */
-    --color-base-50: oklch(0.979 0.044 142.4);
-    --color-base-100: oklch(0.951 0.044 142.4);
-    --color-base-200: oklch(0.870 0.294 142.4);
-    --color-base-300: oklch(0.780 0.294 142.4);
-    --color-base-400: oklch(0.660 0.294 142.4);
-    --color-base-500: oklch(0.550 0.294 142.4);
-    --color-base-600: oklch(0.470 0.294 142.4);
-    --color-base-700: oklch(0.400 0.294 142.4);
-    --color-base-800: oklch(0.330 0.294 142.4);
-    --color-base-900: oklch(0.216 0.118 142.4);
-    --color-base-950: oklch(0.100 0.118 142.4);
+    --color-base-50:  oklch(0.985 0.008 142.4);
+    --color-base-100: oklch(0.970 0.015 142.4);
+    --color-base-200: oklch(0.935 0.030 142.4);
+    --color-base-300: oklch(0.885 0.055 142.4);
+    --color-base-400: oklch(0.805 0.085 142.4);
+    --color-base-500: oklch(0.720 0.110 142.4);
+    --color-base-600: oklch(0.620 0.100 142.4);
+    --color-base-700: oklch(0.510 0.080 142.4);
+    --color-base-800: oklch(0.410 0.060 142.4);
+    --color-base-900: oklch(0.300 0.040 142.4);
+    --color-base-950: oklch(0.220 0.025 142.4);
 
     /* TEXT SIZES */
     --text-216: 13.5rem;
