@@ -15,8 +15,8 @@ const nav = [
 
 <nav class="bg-base-900 flex flex-row flex-wrap sticky top-0">
     {
-        nav.map((navLink) => {
-            const isActive = navLink.href === "/" ? pathname === "/" : pathname.startsWith(navLink.href);
+    nav.map((navLink) => {
+            const isActive = navLink.href === "/salahdabbech" ? pathname === "/salahdabbech" : pathname.startsWith(navLink.href);
         return (
             <Link
                 variant={'nav'} 
